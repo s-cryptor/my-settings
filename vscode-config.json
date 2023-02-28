@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Bearded Theme Oceanic Reversed",
+  "workbench.startupEditor": "none",
+
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [100],
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+
+  "explorer.confirmDelete": false,
+  "eslint.format.enable": true,
+  "zenMode.hideLineNumbers": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.zoomLevel": 1,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+  
+  "prettier.requireConfig": true,
+  "prettier.semi": false,
+  "prettier.trailingComma": "none",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 100
+}
