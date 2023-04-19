@@ -9,6 +9,7 @@
 - Code snap
 - jumpy
 - SVG viewer
+- Pretty TypeScript Errors
 
 # Rust
 - Better TOML
